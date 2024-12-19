@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/chinmay/esp/v5.2.2/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.port": "/dev/ttyACM0",
+    "idf.toolsPath": "/home/chinmay/.espressif",
+    "ros.distro": "humble",
+    "files.associations": {
+        "freertos.h": "c",
+        "gpio.h": "c",
+        "stdio.h": "c"
+    },
+    "idf.flashType": "UART"
+}
